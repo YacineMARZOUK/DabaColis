@@ -1,4 +1,4 @@
-package logistics.dto.auth.colis;
+package logistics.dto.colis;
 
 import logistics.enums.ColisStatus;
 import logistics.enums.ColisType;
